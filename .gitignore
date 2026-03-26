@@ -4,3 +4,4 @@ data/
 Lab5/tinychat-tutorial/*
 !Lab5/tinychat-tutorial/kernels/
 !Lab5/tinychat-tutorial/kernels/**
+models/
